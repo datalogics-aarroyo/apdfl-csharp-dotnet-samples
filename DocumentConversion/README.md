@@ -4,6 +4,9 @@ This sample illustrates how to convert colors in a PDF document.
 ## ***ConvertToOffice***
 This (currently Windows and Linux only) sample illustrates how to convert a PDF document to Microsoft Office formats for Word, Excel and PowerPoint.
 
+## ***CreateDocFromWebPage***
+This (currently Windows and Linux only) sample converts a web page or a local HTML file to a PDF document using the WebToPDF plug-in.
+
 ## ***CreateDocFromXPS***
 Opens a XPS document and converts it to a PDF document.
 
